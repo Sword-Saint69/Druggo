@@ -1,0 +1,12 @@
+{
+  "name": "druggo",
+  "version": "1.0.0",
+  "description": "Druggo - Stremio/Nuvio-compatible live TV addon with auto-scraped verified streams",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js",
+    "scrape": "python3 scrape_live.py",
+    "check": "python3 check_streams.py --json data/streams.json"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,51 @@
+name: Scrape Live TV Links
+
+on:
+  schedule:
+    - cron: '*/5 * * * *' # every 5 minutes (GitHub may delay/throttle frequent schedules)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: druggo-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Scrape and verify live streams
+        env:
+          # Optional: add repository secret PENGUPLAY_BASE (full addon base URL incl. token).
+          # Never hardcode secrets in the repository.
+          PENGUPLAY_BASE: ${{ secrets.PENGUPLAY_BASE }}
+          CHECK_TIMEOUT: '10'
+          CHECK_WORKERS: '25'
+          SCRAPE_MAX_METAS: '60'
+        run: |
+          python3 scrape_live.py
+
+      - name: Commit updated streams
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/streams.json
+          if git diff --staged --quiet; then
+            echo "No stream changes"
+            exit 0
+          fi
+          git commit -m "chore(druggo): refresh live streams [skip ci]"
+          git push

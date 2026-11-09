@@ -1,0 +1,2713 @@
+{
+  "meta": {
+    "generated": "2026-11-09",
+    "source": "scraped/live_streams_ok.json",
+    "count": 93,
+    "ephemeral_count": 33,
+    "rebuilt_for": "Druggo"
+  },
+  "items": [
+    {
+      "id": "dg_81694ead177420ab",
+      "type": "tv",
+      "name": "00s Replay",
+      "description": "Source addon: all-iptv-sample\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 5 ? 1042180",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "all-iptv-sample"
+      ],
+      "ephemeral": false,
+      "addon": "all-iptv-sample",
+      "stream": {
+        "url": "https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8",
+        "title": "00s Replay ? 1042180\nall-iptv-sample",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": null,
+          "bandwidth": "1042180",
+          "codecs": null,
+          "fps": null
+        },
+        {
+          "resolution": null,
+          "bandwidth": "1577180",
+          "codecs": null,
+          "fps": null
+        },
+        {
+          "resolution": null,
+          "bandwidth": "2294080",
+          "codecs": null,
+          "fps": null
+        },
+        {
+          "resolution": null,
+          "bandwidth": "3321280",
+          "codecs": null,
+          "fps": null
+        },
+        {
+          "resolution": null,
+          "bandwidth": "640930",
+          "codecs": null,
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e4d01be920933c14",
+      "type": "tv",
+      "name": "1+1 International HD (720p)",
+      "description": "Source addon: all-iptv-sample\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "all-iptv-sample"
+      ],
+      "ephemeral": false,
+      "addon": "all-iptv-sample",
+      "stream": {
+        "url": "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8",
+        "title": "1+1 International HD (720p)\nall-iptv-sample",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_0c9744a81d5a58a7",
+      "type": "tv",
+      "name": "1+1 Marafon (1080p)",
+      "description": "Source addon: all-iptv-sample\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "all-iptv-sample"
+      ],
+      "ephemeral": false,
+      "addon": "all-iptv-sample",
+      "stream": {
+        "url": "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8",
+        "title": "1+1 Marafon (1080p)\nall-iptv-sample",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_fe294d0e695e53be",
+      "type": "tv",
+      "name": "1+1 Ukraina (1080p)",
+      "description": "Source addon: all-iptv-sample\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "all-iptv-sample"
+      ],
+      "ephemeral": false,
+      "addon": "all-iptv-sample",
+      "stream": {
+        "url": "http://stream.mcquack.net/219/index.m3u8",
+        "title": "1+1 Ukraina (1080p)\nall-iptv-sample",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_be87f945d65653dd",
+      "type": "tv",
+      "name": "AU : FOX SPORTS 502 HD",
+      "description": "Source addon: highfly-live\nDirect/checked stream\nContent-Type: text/html; charset=utf-8\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "highfly-live"
+      ],
+      "ephemeral": false,
+      "addon": "highfly-live",
+      "stream": {
+        "url": "https://sports.highfly.to/configure",
+        "title": "AU : FOX SPORTS 502 HD\nhighfly-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_22010d0410b84f23",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 6 426x240 446936",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://dai-fancode.pages.dev/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/index.m3u8",
+        "title": "Afghanistan vs Zimbabwe 426x240 446936\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "426x240",
+          "bandwidth": "446936",
+          "codecs": "avc1.42e015,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "702376",
+          "codecs": "avc1.42e01e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1023224",
+          "codecs": "avc1.4d401e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "960x540",
+          "bandwidth": "1278664",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "1789512",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "3322120",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": "25.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_8e5716dd89f45126",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/144p.m3u8",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_3b1d365e8891de22",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/240p.m3u8",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_d5e2a8154051f8fd",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/360p.m3u8",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_f2b80ff919e2e2a7",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/480p.m3u8",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_84a28347f8eba72f",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/720p.m3u8",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_2e7504d07094bd51",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 5 1280x720 3845600",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/a-sports/master.m3u8",
+        "title": "Afghanistan vs Zimbabwe 1280x720 3845600\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3845600",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1095600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "600600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "426x240",
+          "bandwidth": "380600",
+          "codecs": "avc1.640015,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "256x144",
+          "bandwidth": "237600",
+          "codecs": "avc1.64000c,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_1a12a3b832f94d80",
+      "type": "tv",
+      "name": "Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 6 640x360 833160",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8",
+        "title": "Bangladesh Under-19 vs Malaysia Under-19 640x360 833160\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "640x360",
+          "bandwidth": "833160",
+          "codecs": "avc1.4d401e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "960x540",
+          "bandwidth": "1344040",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "2365768",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "4204904",
+          "codecs": "avc1.64002a,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "4963232",
+          "codecs": "avc1.64002a,mp4a.40.2",
+          "fps": "50.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3387496",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": "25.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_911b93a95533f7d9",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 5 426x240 580800",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/master.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B 426x240 580800\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "426x240",
+          "bandwidth": "580800",
+          "codecs": "avc1.4d4015,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "1020800",
+          "codecs": "avc1.4d401e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1680800",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3220800",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "5640800",
+          "codecs": "avc1.4d4028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_3610499bc0a1d3c0",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/v1080p.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_4c8ec0274cb33f0b",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/v240p.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_6fa50143f03932fc",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/v360p.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_107a9f5f1c74d05b",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/v480p.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_0078125ab9546b7e",
+      "type": "tv",
+      "name": "CE Sabadell vs Real Sociedad B",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://pub-ca49e522c3c5499996e6b20e5dce3edb.r2.dev/sktech/hls/v720p.m3u8",
+        "title": "CE Sabadell vs Real Sociedad B\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_4c2629d95f91a09b",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 7 224x100 493000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills 224x100 493000\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "224x100",
+          "bandwidth": "493000",
+          "codecs": "mp4a.40.2,avc1.66.30",
+          "fps": "24"
+        },
+        {
+          "resolution": "448x200",
+          "bandwidth": "932000",
+          "codecs": "mp4a.40.2,avc1.66.30",
+          "fps": "24"
+        },
+        {
+          "resolution": "784x350",
+          "bandwidth": "1197000",
+          "codecs": "mp4a.40.2,avc1.77.31",
+          "fps": "24"
+        },
+        {
+          "resolution": "1680x750",
+          "bandwidth": "1727000",
+          "codecs": "mp4a.40.2,avc1.100.40",
+          "fps": "24"
+        },
+        {
+          "resolution": "1680x750",
+          "bandwidth": "2468000",
+          "codecs": "mp4a.40.2,avc1.100.40",
+          "fps": "24"
+        },
+        {
+          "resolution": null,
+          "bandwidth": "68000",
+          "codecs": "mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": null,
+          "bandwidth": "136000",
+          "codecs": "mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_c5c89d6dc12001e6",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=1001000.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_cc3dea3937e34986",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=1501000.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e084f414906214c8",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=2200000.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_d2d97689f775b410",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002-video_eng=751000.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_27df7e8dddbbfffb",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=128002.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_6502494f4624450d",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=64008-video_eng=401000.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_2b4c08dd6d5f1ba9",
+      "type": "tv",
+      "name": "Minnesota Vikings vs Buffalo Bills",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/tears-of-steel-audio_eng=64008.m3u8",
+        "title": "Minnesota Vikings vs Buffalo Bills\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_ffd920645d7d1a26",
+      "type": "tv",
+      "name": "NBA",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 4 480x270 148591",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://video.twimg.com/amplify_video/2068980653379764224/pl/4ErSwN2cvg_DMLYw.m3u8?tag=28",
+        "title": "NBA 480x270 148591\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "480x270",
+          "bandwidth": "148591",
+          "codecs": "mp4a.40.2,avc1.4D4015",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "330693",
+          "codecs": "mp4a.40.2,avc1.4D401E",
+          "fps": null
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "751983",
+          "codecs": "mp4a.40.2,avc1.64001F",
+          "fps": null
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "2336265",
+          "codecs": "mp4a.40.2,avc1.640032",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_218c104f95f5063a",
+      "type": "tv",
+      "name": "NBA",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://video.twimg.com/amplify_video/2068980653379764224/pl/avc1/1280x720/QetpVgsO82F_0JOi.m3u8",
+        "title": "NBA\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_a69d1a31da81c277",
+      "type": "tv",
+      "name": "NBA",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://video.twimg.com/amplify_video/2068980653379764224/pl/avc1/1920x1080/2a5fQAfy0K82sLgf.m3u8",
+        "title": "NBA\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_12dc11527d846ae9",
+      "type": "tv",
+      "name": "NBA",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://video.twimg.com/amplify_video/2068980653379764224/pl/avc1/480x270/AZuFcmwpqX4BWOxP.m3u8",
+        "title": "NBA\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_3ff1e646968ac4e5",
+      "type": "tv",
+      "name": "NBA",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/x-mpegURL\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://video.twimg.com/amplify_video/2068980653379764224/pl/avc1/640x360/cbF2KevkLS2CYoy7.m3u8",
+        "title": "NBA\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_87cb5eee9f657339",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 6 426x240 446936",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://dai-fancode.pages.dev/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/index.m3u8",
+        "title": "NPL Nepal Premier League 426x240 446936\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "426x240",
+          "bandwidth": "446936",
+          "codecs": "avc1.42e015,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "702376",
+          "codecs": "avc1.42e01e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1023224",
+          "codecs": "avc1.4d401e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "960x540",
+          "bandwidth": "1278664",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "1789512",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "3322120",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": "25.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_ed1773586595ce1d",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/json\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://kick.com/api/v2/channels/anyiahsp",
+        "title": "NPL Nepal Premier League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_0799f9882cebb9c2",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: text/html\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "http://line.tivi-ott.net/play/live.php?mac=00:1B:79:F9:2A:14&stream=373201&extension=m3u8",
+        "title": "NPL Nepal Premier League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_f7518592ec470fae",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/144p.m3u8",
+        "title": "Pakistan vs Sri Lanka\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_6d221a95ba520d45",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/240p.m3u8",
+        "title": "Pakistan vs Sri Lanka\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_88192c0338868eba",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/360p.m3u8",
+        "title": "Pakistan vs Sri Lanka\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_5b397c2190fedce7",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/480p.m3u8",
+        "title": "Pakistan vs Sri Lanka\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_2511516c952bce31",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/720p.m3u8",
+        "title": "Pakistan vs Sri Lanka\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_ecec4909c25345b5",
+      "type": "tv",
+      "name": "Pakistan vs Sri Lanka",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 5 1280x720 3845600",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ptv-sports/master.m3u8",
+        "title": "Pakistan vs Sri Lanka 1280x720 3845600\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3845600",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1095600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "600600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "426x240",
+          "bandwidth": "380600",
+          "codecs": "avc1.640015,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "256x144",
+          "bandwidth": "237600",
+          "codecs": "avc1.64000c,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_6d8350c2c013a59a",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/144p.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_c4138f90948843a7",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/240p.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_71064f7c9738c509",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/360p.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_f75cf77be0e9ffb8",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/480p.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_47e932b9d4b188e9",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/720p.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_5596a55737f87dcd",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 5 1280x720 3845600",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://live.msnetworks.net/ten-sports/master.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19 1280x720 3845600\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3845600",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "854x480",
+          "bandwidth": "1095600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "600600",
+          "codecs": "avc1.64001e,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "426x240",
+          "bandwidth": "380600",
+          "codecs": "avc1.640015,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "256x144",
+          "bandwidth": "237600",
+          "codecs": "avc1.64000c,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_036241a5a670a784",
+      "type": "tv",
+      "name": "Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 6 640x360 833160",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://sonymtmnew-akamaized.pages.dev/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8",
+        "title": "Sri Lanka Under-19 vs Afghanistan Under-19 640x360 833160\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "640x360",
+          "bandwidth": "833160",
+          "codecs": "avc1.4d401e,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "960x540",
+          "bandwidth": "1344040",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "2365768",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "4204904",
+          "codecs": "avc1.64002a,mp4a.40.2",
+          "fps": "25.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "4963232",
+          "codecs": "avc1.64002a,mp4a.40.2",
+          "fps": "50.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3387496",
+          "codecs": "avc1.640020,mp4a.40.2",
+          "fps": "25.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e0f2c9d11839d2e9",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/1080p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_a846f0c5716c7eb1",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/360p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_cc9453ba32daf0f9",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/720p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_f49df393542a82b7",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/1080p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_01fbb3a77b1d0886",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/360p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_44dba152b754f009",
+      "type": "tv",
+      "name": "WBBL",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/X6ldxcHzl4vp08XvI7FxGA/1794822818/7c13a51576b9ff2601f08f5d57dd5169/720p_stream.m3u8",
+        "title": "WBBL\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_17518a2646ee4e70",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/1080p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_53afb32fe6a2d752",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/360p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_68e3cbf6bc6f594b",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-1.rutube.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/720p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_1603342b79be93ce",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/1080p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_d18ff5ea2e16e13b",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/360p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e077356ed03e7961",
+      "type": "tv",
+      "name": "Women's Big Bash League",
+      "description": "Source addon: stremverse-live\nDirect/checked stream\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": false,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://river-3-343.rtbcdn.ru/stream/genetta-313.m9.rutube.ru/GkLo1oi3O5QxdW1G2Gyjow/1794822887/7c13a51576b9ff2601f08f5d57dd5169/720p_stream.m3u8",
+        "title": "Women's Big Bash League\nstremverse-live",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_c0bd2a32adcfc580",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328949",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUuY2FjaGUuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9taXBkdnl4bWdrL291dC92MS81YjFmZTFmZjU5MDI0ODg3YTk5ODk0NWQxZmNlZjMyOS9jZW5jLm1wZD8iLCJrZXkiOiIxMjgzYjQ5MDk3ZjI0ODE3MDdkYTYyZjk1YjFkMDJjYSIsImtleUlkIjoiOTU5MDM5ODRjMjUzZTNmZDQ3YjExMmI3MjE2NmNhZWEiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ5LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJVc2VyLUFnZW50IjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCAxMzsgUGl4ZWwgNSBCdWlsZC9UUTNBLjIzMDkwMS4wMDEpIn19/index.m3u8?psig=1794246960.K-f8P9IKgFjlvOV6OVHdhckXfeNcCQyohMYFHp_BfD0%3A1aME9hNzO-g4D7K6iOSV8njvqW6CZsd000dh5_-Ewu4",
+        "title": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19 1920x1080 8328949\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328949",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_999de66fa70d96b2",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUuY2FjaGUuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vNHRyc2R6ZXd1L291dC92MS83YWVhMWFmZGE1ODU0YmFhYmEzZGRlYjk2N2Y3OWZiNi9jZW5jLm1wZCIsImtleSI6IjJkMzBmZTViNmY3NDNhZmMwZTZiMGJhYmI4NmFjNzBkIiwia2V5SWQiOiI3M2RlMTI4NTIyNjkxOTZiYjQ3NTA0MmJlMDcwZTY1OSIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlVzZXItQWdlbnQiOiJEYWx2aWsvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDEzOyBQaXhlbCA1IEJ1aWxkL1RRM0EuMjMwOTAxLjAwMSkifX0/index.m3u8?psig=1794246960.KX4xejSo9AbdZ3pf8kYAk4-xpqkh1FWjgT5nQprhuwM%3A-OIis8EMDrA1up6JmkwqTE4QXl-X_gZGgTH6ri5j_m4",
+        "title": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_4ea4ca246c2e6492",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328949",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUubGl2ZS5mbHkud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9taXBkdnl4bWdrL291dC92MS81YjFmZTFmZjU5MDI0ODg3YTk5ODk0NWQxZmNlZjMyOS9jZW5jLm1wZCIsImtleSI6IjEyODNiNDkwOTdmMjQ4MTcwN2RhNjJmOTViMWQwMmNhIiwia2V5SWQiOiI5NTkwMzk4NGMyNTNlM2ZkNDdiMTEyYjcyMTY2Y2FlYSIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246960.74wZREgA2B24VZHb0QOuP3ULDJOfL8tUYypsg10xfJM%3AXypEzEkENJg_HgbFm353Shvm3gAeee7L8g4LvJoKMg8",
+        "title": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19 1920x1080 8328949\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328949",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_2595d02b59f74188",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUubGl2ZS5mbHkud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vNHRyc2R6ZXd1L291dC92MS83YWVhMWFmZGE1ODU0YmFhYmEzZGRlYjk2N2Y3OWZiNi9jZW5jLm1wZCIsImtleSI6IjJkMzBmZTViNmY3NDNhZmMwZTZiMGJhYmI4NmFjNzBkIiwia2V5SWQiOiI3M2RlMTI4NTIyNjkxOTZiYjQ3NTA0MmJlMDcwZTY1OSIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246960.oN_PA9TRBMXS66hhW4iOskA1T9kmRnkbnxNqzMhjhDY%3AeXJYGTF2vHQ4hrIoskcguDCny2ssWHytVUY7CRTjrv8",
+        "title": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_662772d2922d0855",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL2FiZmprNGhhYWFhYWFhYW1raXRjNTQ0NXJ5Ym02LmJpYS1jZi5saXZlLnB2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vNHRyc2R6ZXd1L291dC92MS83YWVhMWFmZGE1ODU0YmFhYmEzZGRlYjk2N2Y3OWZiNi9jZW5jLm1wZCIsImtleSI6IjJkMzBmZTViNmY3NDNhZmMwZTZiMGJhYmI4NmFjNzBkIiwia2V5SWQiOiI3M2RlMTI4NTIyNjkxOTZiYjQ3NTA0MmJlMDcwZTY1OSIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlVzZXItQWdlbnQiOiJEYWx2aWsvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDEzOyBQaXhlbCA1IEJ1aWxkL1RRM0EuMjMwOTAxLjAwMSkifX0/index.m3u8?psig=1794246960.iUqQaAi4Z_DeQB9xeXOUkHCrFcH7LLVcKsuUCPpyr18%3A2RD-HonEjGdIhqqkfXxGkJmWBE3Mv831maCtbHJMr_E",
+        "title": "\ud83d\udd34 LIVE: Bangladesh Under-19 vs Malaysia Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_148156e63c68033a",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Fox Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1280x720 5160000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL2JoYXJhdC5pbmRpYW5zZXJ2ZXJzLnN0L3NlY3VyZS9CVk1FTktFeXJGUlJhR3lDWnZLWXBjdGZ1bGxKa1JlSi8wLzE3OTQzMDQ1NjEvc3RyZWFtZWQtd2lsbG93L2luZGV4Lm0zdTgiLCJoZWFkZXJzIjp7IlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJSZWZlcmVyIjoiaHR0cHM6Ly9lbWJlZGluZGlhLnN0LyJ9LCJzaXRlIjoicHB2Iiwic2VnbWVudFByZWZpeEJ5dGVzIjo0MiwicmVtaW50Ijp7InByb3ZpZGVyIjoicHB2Iiwic291cmNlIjoicHB2IiwiaWQiOiJNalEzTFhkcGJHeHZkdyIsInN0cmVhbSI6MX19/index.m3u8?psig=1794246980.jAeeW8GCcNo-Aw3EM41JiPhhq6Maf8iH5HAuFcnlLps%3AUtbrNSHAlKKropxAcV4BpLy1KoznpGKp2H6-UE13UbY",
+        "title": "\ud83d\udd34 LIVE: Fox Cricket 1280x720 5160000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "5160000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_5f78f481591b7ab5",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Nepal Premier league",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328796",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUuY2FjaGUuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9iM2IzZmttcmJsL291dC92MS8xMDg0ZDVjOWE5N2E0YzViOWY5NTU0Yzg4ZjQ4NjY0Ni9jZW5jLm1wZCIsImtleSI6ImEwMGIyOGNhZjRhYzYyOGU3N2E1NTNkNDQwYzBkZGNhIiwia2V5SWQiOiI4MmRmY2EyMzhlOGM0YjQzMGEzMjY5ZGI3MTk2NWRiOSIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlVzZXItQWdlbnQiOiJEYWx2aWsvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDEzOyBQaXhlbCA1IEJ1aWxkL1RRM0EuMjMwOTAxLjAwMSkifX0/index.m3u8?psig=1794246969.Mp2d8dkFsS-_grw_wNqqrJg767pS4s7c4zDskUe89Ww%3AVIiGRNyoyiBvlWr2l0B4H5EAkWl6k8QuzljBg8McL8g",
+        "title": "\ud83d\udd34 LIVE: Nepal Premier league 1920x1080 8328796\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328796",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_c780af240e45a80f",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8329839",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUubGl2ZS5mbHkud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy82Z3RsbDlmZmJ1L291dC92MS83NTE5YmE0NWQwY2Y0M2IwOWY0Y2ZkNDJlNzZmYzUwYy9jZW5jLm1wZCIsImtleSI6IjkxZTVhNTlkYTg2YjA1NGZlZjZhMDZhYjZkYTgyOTM1Iiwia2V5SWQiOiI3MWRlNjNiNWM1MjM2YjQxZDMyODk0NThhMGQzNjEyZSIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246956.XflNcb8jNHwiDvHE5PfTZJP_z8I17_bpt9gA1C_FzIc%3AG_moeb4g81b4AfX15_rEWEG8dXOYDb13pNtP4YoK7YI",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket 1920x1080 8329839\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8329839",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_18c2b36bacf336b9",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8329839",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL2FiZmprNGhhYWFhYWFhYW1raXRjNTQ0NXJ5Ym02LmJpYS1jZi5saXZlLnB2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy82Z3RsbDlmZmJ1L291dC92MS83NTE5YmE0NWQwY2Y0M2IwOWY0Y2ZkNDJlNzZmYzUwYy9jZW5jLm1wZCIsImtleSI6IjkxZTVhNTlkYTg2YjA1NGZlZjZhMDZhYjZkYTgyOTM1Iiwia2V5SWQiOiI3MWRlNjNiNWM1MjM2YjQxZDMyODk0NThhMGQzNjEyZSIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246956.2JljIzdWpFPS7GLV_fuFb-eYYJWezqONDNXLBb3tV4M%3ALLFwk13j-d0todmfWqxCbx6ZcdniiFa6z07u91SGvU0",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket 1920x1080 8329839\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8329839",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e10941558157887c",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL3BhcGFjaXRvLmNmZC9tM3UvMjE2MTc1NC9saXZlLm0zdTgiLCJoZWFkZXJzIjp7IlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJBY2NlcHQiOiIqLyoifSwic2l0ZSI6InBsb3JheCIsInRyYW5zcG9ydCI6ImltcGl0IiwicGxvcmF4UHJlbWl1bSI6dHJ1ZX0/index.m3u8?psig=1794246956.xKmvlZCBKyrKfte9U-XKvxoT2ybZ1v4WyErZZz688bI%3AWYLK4-baIi0lrZ6i3E6kms0_0cmI5XrnHq5HNvSzGOQ",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_779654bc0358a110",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL3BhcGFjaXRvLmNmZC9tM3UvMzI0OTkzL2xpdmUubTN1OCIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIkFjY2VwdCI6IiovKiJ9LCJzaXRlIjoicGxvcmF4IiwidHJhbnNwb3J0IjoiaW1waXQiLCJwbG9yYXhQcmVtaXVtIjp0cnVlfQ/index.m3u8?psig=1794246956.wRU-J5NGlijo7QkZs9gBzejdRO_9Z-MwtW4lOC5hnyA%3AIolr1ejKMcsK9T5lXC6WGGKADH_W18wtL7LTbenOuLI",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_3f484e87689c40db",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL3BhcGFjaXRvLmNmZC9tM3UvNDM3NzM5L2xpdmUubTN1OCIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjcuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIkFjY2VwdCI6IiovKiJ9LCJzaXRlIjoicGxvcmF4IiwidHJhbnNwb3J0IjoiaW1waXQiLCJwbG9yYXhQcmVtaXVtIjp0cnVlfQ/index.m3u8?psig=1794246956.CFGZAiagOtD7kwQcllqaY4MSFbD6MauEnUaJmlo-qrY%3AwQozOlCz321pxOIakm1YyCXJZ3Aa00hLCJGcoKSUj28",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_dd7129f341bd1b2e",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1280x720 1720000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL3R2c2VuNS5heW5hb3R0LmNvbS9Ubk1uNWtaejhhTG1qa2xray9pbmRleC5tM3U4IiwiaGVhZGVycyI6e30sInNpdGUiOiJha3Nwb3J0cyJ9/index.m3u8?psig=1794246956.QTQrtNi90RhUFSpeJgW3WN_KgkkUpxfMMmCLOZ5BZxA%3AZVe2SqO6h5j4_Yb_XVviDfC9eCsqQqoq6EhGQrsN2Go",
+        "title": "\ud83d\udd34 LIVE: Pakistan Cricket vs Sri Lanka Cricket 1280x720 1720000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "1720000",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": "25.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_ceab2e968f06b2ae",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Rally TV",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 7 1920x1080 9328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL3JhbGx5LXR2LWxpdmUuYWthbWFpemVkLm5ldC9obHMvbGl2ZS8yMTE3NzA0L1JhbGx5VFYtUHJpL21hc3Rlci5tM3U4IiwiaGVhZGVycyI6eyJVc2VyLUFnZW50IjoiTW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEyNy4wLjAuMCBTYWZhcmkvNTM3LjM2IiwiUmVmZXJlciI6Imh0dHBzOi8vZW1iZWRpbmRpYS5zdC8ifSwic2l0ZSI6InBwdiIsInNlZ21lbnRQcmVmaXhCeXRlcyI6NDIsInJlbWludCI6eyJwcm92aWRlciI6InBwdiIsInNvdXJjZSI6InBwdiIsImlkIjoiY21Gc2JIa3RkSFkiLCJzdHJlYW0iOjF9fQ/index.m3u8?psig=1794247024.7dAVcFzR46IrycDSUDQ3PkMF8bZJ0IPeHQggsbIwwE0%3AnAg3K5VHCJO9tUwvjQrQ1Bdh3A0Mkz2HMS-oMG1hONA",
+        "title": "\ud83d\udd34 LIVE: Rally TV 1920x1080 9328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "9328000",
+          "codecs": "avc1.64002a,mp4a.40.2",
+          "fps": "50.000"
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "7040000",
+          "codecs": "avc1.4d4028,mp4a.40.2",
+          "fps": "30.000"
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "3608000",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": "30.000"
+        },
+        {
+          "resolution": "960x540",
+          "bandwidth": "1892000",
+          "codecs": "avc1.4d401f,mp4a.40.2",
+          "fps": "30.000"
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "1091200",
+          "codecs": "avc1.77.30,mp4a.40.2",
+          "fps": "30.000"
+        },
+        {
+          "resolution": "426x240",
+          "bandwidth": "690800",
+          "codecs": "avc1.4d4015,mp4a.40.2",
+          "fps": "30.000"
+        },
+        {
+          "resolution": "320x180",
+          "bandwidth": "633600",
+          "codecs": "avc1.4d400d,mp4a.40.2",
+          "fps": "30.000"
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_18cecb9a2eb33af5",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8329214",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUuY2FjaGUuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9sbWQwb28waWNzL291dC92MS9hNThiODMwMGQ0OWM0ZDI4YjgwYzM4YzZhMWRlMTQyZC9jZW5jLm1wZD8iLCJrZXkiOiJmNmRkODhiOTkwNTBjODA1ZTJlODRlNTAwNTE2OTMwMCIsImtleUlkIjoiZWY4ZWMzZDc3ODE3NzllZDAwZWU3NDkyMzdjMDkzYzQiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTQ5LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJVc2VyLUFnZW50IjoiRGFsdmlrLzIuMS4wIChMaW51eDsgVTsgQW5kcm9pZCAxMzsgUGl4ZWwgNSBCdWlsZC9UUTNBLjIzMDkwMS4wMDEpIn19/index.m3u8?psig=1794246962.j1IyPY5I_02rLLl_kDUNWxNt-mjFpF6NjEDLCFlPiis%3At4Wrcw4MQCrdVHJ6PmqS6XRFgg-44IjvoiczYonDPOg",
+        "title": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19 1920x1080 8329214\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8329214",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_86cd44e463086fa6",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUuY2FjaGUuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vZXVlenV1OW5pL291dC92MS82OTE3NzZkMWRhY2E0MzU1OTY4NzdiYWIxYWUxNjdlMy9jZW5jLm1wZCIsImtleSI6IjRhMzc0ZjcwM2JmY2U3MzAwMzIwZjAxZTQ3OTFmNDMyIiwia2V5SWQiOiI5NGM0NTBiYTAzZjgzOWRkNjE3NWE0MTJkZmVmZGU0YyIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlVzZXItQWdlbnQiOiJEYWx2aWsvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDEzOyBQaXhlbCA1IEJ1aWxkL1RRM0EuMjMwOTAxLjAwMSkifX0/index.m3u8?psig=1794246962.IHOj6dL44Gchqil1jX_N22mzMj71cg3bVhtwBP0jtAg%3A4mPKeKLipSZfhS-ej5Sc7ST5cQUCwlioFS3vfZz3LCc",
+        "title": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_694fea86ae2400a3",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8329214",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUubGl2ZS5mbHkud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9sbWQwb28waWNzL291dC92MS9hNThiODMwMGQ0OWM0ZDI4YjgwYzM4YzZhMWRlMTQyZC9jZW5jLm1wZCIsImtleSI6ImY2ZGQ4OGI5OTA1MGM4MDVlMmU4NGU1MDA1MTY5MzAwIiwia2V5SWQiOiJlZjhlYzNkNzc4MTc3OWVkMDBlZTc0OTIzN2MwOTNjNCIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246962.mHew6BFrh3ME8AjHA8hpBo_zsRE4zicxRtUWlUZ4re0%3A5rWbLwTPg0B490as0lS1utk969_VbHBmmt5IcggnC_Y",
+        "title": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19 1920x1080 8329214\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8329214",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_c7cc2027ebf2012b",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL290dGUubGl2ZS5mbHkud3cuYWl2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vZXVlenV1OW5pL291dC92MS82OTE3NzZkMWRhY2E0MzU1OTY4NzdiYWIxYWUxNjdlMy9jZW5jLm1wZCIsImtleSI6IjRhMzc0ZjcwM2JmY2U3MzAwMzIwZjAxZTQ3OTFmNDMyIiwia2V5SWQiOiI5NGM0NTBiYTAzZjgzOWRkNjE3NWE0MTJkZmVmZGU0YyIsImhlYWRlcnMiOnsiVXNlci1BZ2VudCI6IkRhbHZpay8yLjEuMCAoTGludXg7IFU7IEFuZHJvaWQgMTM7IFBpeGVsIDUgQnVpbGQvVFEzQS4yMzA5MDEuMDAxKSJ9fQ/index.m3u8?psig=1794246962.FCupXTY0dGpbmwXPaCX4Z28wGeISL3JzPMxKBrOMK38%3A-AqqhQwwMKUljSNRqjYiG02CLkwIUEbXn5tZ5nUBADQ",
+        "title": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_9bd3494159e23f98",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1920x1080 8328000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/dash/eyJtcGRVcmwiOiJodHRwczovL2FiZmprNGhhYWFhYWFhYW1raXRjNTQ0NXJ5Ym02LmJpYS1jZi5saXZlLnB2LWNkbi5uZXQvaWFkLW5pdHJvL2xpdmUvY2xpZW50cy9kYXNoL2VuYy9vZXVlenV1OW5pL291dC92MS82OTE3NzZkMWRhY2E0MzU1OTY4NzdiYWIxYWUxNjdlMy9jZW5jLm1wZCIsImtleSI6IjRhMzc0ZjcwM2JmY2U3MzAwMzIwZjAxZTQ3OTFmNDMyIiwia2V5SWQiOiI5NGM0NTBiYTAzZjgzOWRkNjE3NWE0MTJkZmVmZGU0YyIsImhlYWRlcnMiOnsidXNlci1hZ2VudCI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xNDkuMC4wLjAgU2FmYXJpLzUzNy4zNiIsIlVzZXItQWdlbnQiOiJEYWx2aWsvMi4xLjAgKExpbnV4OyBVOyBBbmRyb2lkIDEzOyBQaXhlbCA1IEJ1aWxkL1RRM0EuMjMwOTAxLjAwMSkifX0/index.m3u8?psig=1794246962.kcAtAxgKwiHOrq1rhoHL-wV28LNxLkL4hx2q5M8Pi-o%3AP4TxuEGmc1INzRhnQJjqAJE_OnGt2epDFWyGH8L9wAk",
+        "title": "\ud83d\udd34 LIVE: Sri Lanka Under-19 vs Afghanistan Under-19 1920x1080 8328000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "8328000",
+          "codecs": "avc1.640028,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_451bba81f8907f17",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: WBBL",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 6 640x360 1000000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL2JsLnJ1dHViZS5ydS9saXZlc3RyZWFtLzdjMTNhNTE1NzZiOWZmMjYwMWYwOGY1ZDU3ZGQ1MTY5L2luZGV4Lm0zdTg_cz11aVhFUzJlUHQ3eFRwUW5iSnhuN0RnJmU9MjA3NDY4NDQ3NCZzY2hlbWU9aHR0cHMiLCJoZWFkZXJzIjp7InVzZXItYWdlbnQiOiJNb3ppbGxhIn0sInNpdGUiOiJza3RlY2gifQ/index.m3u8?psig=1794246971.oz0NtJPIIG1sd5cC-8d-B-65ztmiZRHwQWWxOS_19so%3AqgQWdw6EFeyJ9jyJsyEUR1ivNvU8FBHWPILIYWrLEfY",
+        "title": "\ud83d\udd34 LIVE: WBBL 640x360 1000000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "640x360",
+          "bandwidth": "1000000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "640x360",
+          "bandwidth": "1000000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "4000000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1280x720",
+          "bandwidth": "4000000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "6800000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        },
+        {
+          "resolution": "1920x1080",
+          "bandwidth": "6800000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_9496952a4e68d60b",
+      "type": "tv",
+      "name": "\ud83d\udd34 LIVE: Willow",
+      "description": "Source addon: penguplay-now\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl; charset=utf-8\nHLS qualities: 1 1280x720 5160000",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "penguplay-now"
+      ],
+      "ephemeral": true,
+      "addon": "penguplay-now",
+      "stream": {
+        "url": "https://pengu.uk/hls/live-sports/playlist/eyJ1cmwiOiJodHRwczovL2JoYXJhdC5pbmRpYW5zZXJ2ZXJzLnN0L3NlY3VyZS9qVEVsR0tUYmhRTUVpakxXVGtsS3lJV05rWmFOTFhRdC8wLzE3OTQzMDQ2MjIvc3RyZWFtZWQtd2lsbG93L2luZGV4Lm0zdTgiLCJoZWFkZXJzIjp7IlVzZXItQWdlbnQiOiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTI3LjAuMC4wIFNhZmFyaS81MzcuMzYiLCJSZWZlcmVyIjoiaHR0cHM6Ly9lbWJlZGluZGlhLnN0LyJ9LCJzaXRlIjoicHB2Iiwic2VnbWVudFByZWZpeEJ5dGVzIjo0MiwicmVtaW50Ijp7InByb3ZpZGVyIjoicHB2Iiwic291cmNlIjoicHB2IiwiaWQiOiJNalEzTFhkcGJHeHZkdyIsInN0cmVhbSI6MX19/index.m3u8?psig=1794247050.iyZXkIzRSknYyMqk2NYDZF08_U0cc-Vf5k6Ifzt6oM4%3AYh5FMVb5sN2KHQKDLjkug-eDUr01Wt5C8zGheI5mbDk",
+        "title": "\ud83d\udd34 LIVE: Willow 1280x720 5160000\npenguplay-now [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [
+        {
+          "resolution": "1280x720",
+          "bandwidth": "5160000",
+          "codecs": "avc1.64001f,mp4a.40.2",
+          "fps": null
+        }
+      ],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_d9ca9a8a654d603c",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_6b75377d83f1588e",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/240p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_b73a7d00c9c468de",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/360p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_8da3210a12fc9031",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/480p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_9c318c3039eb760c",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/540p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_b63e7ecf52e7d7bc",
+      "type": "tv",
+      "name": "Afghanistan vs Zimbabwe",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/720p.m3u8?hdntl=Expires=1794295149~_GO=Generated~acl=/mumbai/4249772_english_hls_ea87fdf83461346_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_572b891f-89ee-4a~Signature=AV7HGj5Qo5XsIvI6zlDFoN2h_vMTaUIGmeuvNDWXxX-iCD82YPgGKh4vWZ8npZLbiltBLFe4jM7pJPzERffQk8HHUXcG",
+        "title": "Afghanistan vs Zimbabwe\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_e111d13a84f56f22",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_bebdb761ce9d3605",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/240p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_deea486534d5c626",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/360p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_f76999e57b1aa740",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/480p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_0ad26b9c7e59b94f",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/540p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    },
+    {
+      "id": "dg_92ae5e1a034f40a5",
+      "type": "tv",
+      "name": "NPL Nepal Premier League",
+      "description": "Source addon: stremverse-live\nEPHEMERAL/SIGNED URL - may expire\nContent-Type: application/vnd.apple.mpegurl\nHLS qualities: 0",
+      "poster": null,
+      "posterShape": "square",
+      "genres": [
+        "stremverse-live"
+      ],
+      "ephemeral": true,
+      "addon": "stremverse-live",
+      "stream": {
+        "url": "https://in-mc-plive.fancode.com/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/720p.m3u8?hdntl=Expires=1794292630~_GO=Generated~acl=/mumbai/4250373_english_hls_c42dd1db2742464_1ta-di_h264/*~SessionID=26301734ad95c0a7e59610f8197f3df8_playbox_c934f26b-9329-4f~Signature=AV7HGj4KADousCNUS9Gs_xXXmJ0YcwpTUPD7C4bsYlYa_X6CFbGcQgs2Px9Ou81FMvdsNR-l8wkgWb5WExTpGA-REscJ",
+        "title": "NPL Nepal Premier League\nstremverse-live [may expire]",
+        "name": "Druggo",
+        "behaviorHints": {
+          "notWebReady": false
+        }
+      },
+      "qualities": [],
+      "is_m3u8": true
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "community.druggo.live-tv",
+  "version": "1.0.0",
+  "name": "Druggo",
+  "description": "Druggo live TV/sports - verified streams scraped from public Stremio-compatible sources. Some URLs are signed/ephemeral and may expire.",
+  "logo": "https://raw.githubusercontent.com/nuvio-tv/assets/main/icon.png",
+  "resources": ["catalog", "meta", "stream"],
+  "types": ["tv", "channel"],
+  "catalogs": [
+    {
+      "type": "tv",
+      "id": "druggo_live",
+      "name": "Druggo Live TV",
+      "extra": [
+        { "name": "search", "isRequired": false },
+        { "name": "genre", "isRequired": false },
+        { "name": "skip", "isRequired": false }
+      ]
+    }
+  ],
+  "idPrefixes": ["dg_", "nl_"],
+  "behaviorHints": { "configurable": false, "configurationRequired": false }
+}
